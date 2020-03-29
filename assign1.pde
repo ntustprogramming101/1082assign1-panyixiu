@@ -88,3 +88,4 @@ void draw() {
   //robot's position
   image(robot,robotX+robotRandomX,floorR);
 }
+
